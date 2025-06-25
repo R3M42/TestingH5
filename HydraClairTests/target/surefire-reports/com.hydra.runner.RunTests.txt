@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hydra.runner.RunTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.409 s - in com.hydra.runner.RunTests
